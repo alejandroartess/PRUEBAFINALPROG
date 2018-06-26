@@ -1,0 +1,11 @@
+{
+	"name": "p8/composer",
+	"require": {
+		"monolog/monolog": ">=1.23"
+	},
+	"autoload": {
+		"psr-4": {
+			"florida\\":"src/"
+		}
+	}
+}

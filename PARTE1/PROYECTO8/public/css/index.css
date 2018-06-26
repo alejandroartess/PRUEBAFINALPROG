@@ -1,0 +1,40 @@
+body{
+  background-color:#EEE8AA;
+}
+h1{
+  color:black;
+}
+h2.success{
+  background: #3fd824;
+  border:1px solid #1d6810;
+  color: white;
+}
+
+h2.error{
+  background: #3fd824;
+  border:1px solid ##7a2121;
+  color: black;
+}
+.actions{
+  height: 25px;
+  width: 100%;
+  margin-top:5px;
+  margin-bottom: 10px;
+}
+.actions a,.card a{
+  padding: 4px;
+  color:white;
+  height: fit-content;
+  background-color: #555555;
+  display:block;
+  width:fit-content;
+  margin-top: 5px;
+}
+
+.card{
+  padding:15px;
+  background: #e8e8e8;
+  border:1px solid #a5a4a4;
+  border-radius: 15%;
+  width: fit-content;
+}
